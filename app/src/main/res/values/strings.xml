@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guitar George</string>
+    <string name="help_title">Guitar George Help</string>
+    <string name="chord_selector_text">Chord Selector:</string>
+    <string name="chord_progression_text">Chord Progression:</string>
+    <string name="chord_image_desciption">A fingering diagram representing the guitar chord</string>
+    <string name="guitar_image_description">Fender Stratocaster</string>
+    <string name="chord_root_tag">chord root</string>
+    <string name="chord_variation_tag">chord variation</string>
+    <string name="repeat_tag">repeat</string>
+    <string name="selection_image_tag">selection image</string>
+    <string name="progression_image_tag">progression image</string>
+    <string name="repeat_button_text">repeat</string>
+    <string name="save_button_text">Save</string>
+    <string name="save_dialog_hint">enter your song name here</string>
+    <string name="save_button_tag">save button</string>
+    <string name="help_button_text">Help</string>
+    <string name="help_button_tag">help button</string>
+    <string name="select_song_text">Select song:</string>
+    <string name="open_button_text">Open</string>
+    <string name="delete_button_text">Delete</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="are_you_sure">Are you sure you want to delete</string>
+    <string name="already_exists">already exists - Overwrite?</string>
+    <string name="ok_button_text">OK</string>
+    <string name="loaded_text">Loaded</string>
+    <string name="compose">Compose</string>
+    <string name="play">Play</string>
+    <string name="library">Library</string>
+    <string name="compose_help">Compose:\n
+        1. Start by selecting a root chord\n
+        "     (Ab, A, Bb, B, C, C#, D, Eb, E, F, F#, or G)."\n
+        2. One or more fingering chart images\n
+        "     for the chord will be displayed."\n
+        3. Optionally, select a chord variation\n
+        "     (5, 6, 7, 9, min, min7, or sus)."\n
+        4. To hear a chord, tap its fingering chart\n
+        "     image."\n
+        5. Drag a fingering chart image to the\n
+        "     Chord Progression area."\n
+        6. Fill the Progression area with different\n
+        "     chords until you have a complete song."\n
+        "     - Empty spots (rest signs) in the"\n
+        "       Chord Progression are ignored."\n
+        "     - Surround several chords with begin"\n
+        "       and end \u0022repeats\u0022 as necessary."\n
+        7. Switch to the Play page to play your\n
+        "     new song."\n
+        8. Select Save on the Compose page to\n
+        "     save your new song."
+    </string>
+    <string name="play_help">Play:\n
+        1. Tap the guitar image to play a chord.\n
+        2. Tap the chord fingering chart image to\n
+        "     change chords."
+    </string>
+    <string name="library_help">Library:\n
+        Open a previously saved song or\n
+        Delete a previously saved song.
+    </string>
+
+</resources>
